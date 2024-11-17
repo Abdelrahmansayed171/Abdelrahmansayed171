@@ -24,10 +24,15 @@
 </p>
 
 <h4 align="center">
-  CI / CD Essentials
+  Solid Foundation of
 </h4>
+
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,github" alt="Javascript" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express" alt="Game" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,html,css,tailwind" alt="Game" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,aws,nginx" alt="Game" />
 </p>
 
 <h4 align="center">
@@ -39,6 +44,31 @@
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,elasticsearch" alt="Database Icons" />
 </p>
 
+<h4 align="center">
+  AI & Machine Learning
+</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,py" alt="Game" />
+  <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" width="75" alt="Game" />
+  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" width="60" alt="Game" />
+</p>
+
+<h4 align="center">
+  CI / CD Essentials
+</h4>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,github" alt="Javascript" />
+</p>
+
+<h4 align="center">
+    API Documentation & Testing
+</h4>
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" width="50" alt="Javascript" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Javascript" />
+</p>
+
 
 <h4 align="center">
   Distributed Systems
@@ -47,29 +77,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kafka" alt="Distributed Systems" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" width="50" alt="hadoop" />
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" width="50" alt="apache spark" />
 </p>
 
 <h4 align="center">
-  Desktop development
+  ETL & Data Visualization
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,cpp,c,python,vala,gtk" alt="Desktop" />
-</p>
-
-<h4 align="center">
-  Game developement
-</h4>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,unity,cs,python,typescript" alt="Game" />
-</p>
-
-<h4 align="center">
-    Favorite IDEs & Tools
-</h4>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,notion" alt="Javascript" />
+  <img src="https://cdn.prod.website-files.com/6064b31ff49a2d31e0493af1/66d1619402e0a2a8054d28da_660cf955d57294eefd7bfdaa_OzkE8fiKw7u7IGHsCJLx6_VdC0ztb7AOPIg-WBSIO8HPIrw3vjEh-KrokuY5Uo_iHDegaedpSIQw12kmgdnduxRzYTgo-BDRCmwe--uQokgS3bNpouK6cJTvwGlTa9K2Lgfddhf2c6KDPeHBU_XW9A.png" width="80" alt="Microsoft SSIS" />
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" alt="Microsoft Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png?20181120160841" width="100" alt="Microsoft Power BI" />
 </p>
 
 ---
