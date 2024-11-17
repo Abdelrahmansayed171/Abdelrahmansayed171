@@ -20,7 +20,9 @@
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,laravel,cpp" alt="Essential skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,laravel,cpp" alt="Essential skills" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind" alt="Essential skills" />
 </p>
 
 <h4 align="center">
@@ -28,11 +30,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express" alt="Game" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ts,html,css,tailwind" alt="Game" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,aws,nginx" alt="Game" />
+  <img src="https://skillicons.dev/icons?i=django,express,ts,linux,aws" alt="Game" />
 </p>
 
 <h4 align="center">
@@ -93,7 +91,7 @@
 ---
 
 ### 📫 Reach Me On:
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/abdelrahmannafady" target="blank" style="margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmannafady" height="40" width="50" style="border-radius: 8px;" />
   </a>
@@ -103,7 +101,7 @@
   <a href="https://fb.com/abdelrahman.sayed.92372" target="blank" style="margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahman.sayed.92372" height="40" width="50" style="border-radius: 8px;" />
   </a>
-  <a href="https://www.youtube.com/c/abdelrahmansayed4727" target="blank" style="margin-right: 20px;">
+  <a href="https://www.youtube.com/@abdelrahmansayed4727" target="blank" style="margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdelrahmansayed4727" height="40" width="50" style="border-radius: 8px;" />
   </a>
 </p>
