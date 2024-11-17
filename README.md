@@ -12,24 +12,23 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=24&pause=1000&center=true&width=435&lines=A+Guy+Who+Can+Code++.+.+.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </div>
-</h2>
- 
 
-<h2 align="left">
-  Knowledge, tools and skills
 </h2>
 
-<h4 align="center">
-  Essentials
-</h4>
+<h3 align="center">
+    Professional With
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker" alt="Essential skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,laravel,cpp" alt="Essential skills" />
 </p>
 
-<h4 align="center">
-  Full-stack web development
-</h4>
+<h3 align="center">
+  CI / CD Essentials
+</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,github" alt="Javascript" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=next,typescript,mongodb,expressjs,react,nodejs" alt="Javascript" />
@@ -65,6 +64,12 @@
   <img src="https://skillicons.dev/icons?i=godot,unity,cs,python,typescript" alt="Game" />
 </p>
 
+<h4 align="center">
+    Favorite IDEs & Tools
+</h4>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,notion" alt="Javascript" />
+</p>
 
 ---
 
