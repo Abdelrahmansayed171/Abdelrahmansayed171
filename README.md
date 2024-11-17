@@ -15,37 +15,38 @@
 
 </h2>
 
-<h3 align="center">
+<h4 align="center">
     Professional With
-</h3>
+</h4>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,laravel,cpp" alt="Essential skills" />
 </p>
 
-<h3 align="center">
+<h4 align="center">
   CI / CD Essentials
-</h3>
+</h4>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,github" alt="Javascript" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=next,typescript,mongodb,expressjs,react,nodejs" alt="Javascript" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
-</p>
-
 <h4 align="center">
-  Mobile developement
+    Database & Cloud Hosting
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,androidstudio" alt="Mobile" />
+  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="45" alt="Microsoft SQL Server Icon" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,elasticsearch" alt="Database Icons" />
+</p>
+
+
+<h4 align="center">
+  Distributed Systems
+</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Distributed Systems" />
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" width="50" alt="hadoop" />
 </p>
 
 <h4 align="center">
