@@ -92,18 +92,12 @@
 
 ### 📫 Reach Me On:
 <p align="center">
-  <a href="https://linkedin.com/in/abdelrahmannafady" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmannafady" height="40" width="50" style="border-radius: 8px;" />
-  </a>
-  <a href="https://www.leetcode.com/abdelrahmansayed171" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelrahmansayed171" height="40" width="50" style="border-radius: 8px;" />
-  </a>
-  <a href="https://fb.com/abdelrahman.sayed.92372" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahman.sayed.92372" height="40" width="50" style="border-radius: 8px;" />
-  </a>
-  <a href="https://www.youtube.com/@abdelrahmansayed4727" target="blank" style="margin-right: 20px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdelrahmansayed4727" height="40" width="50" style="border-radius: 8px;" />
-  </a>
-</p>
+</h2>
+
+<h6>
+  <i>
+    B.Sc. Information Systems<br/>Egypt - Cairo University (2020 - 2024)
+  </i>
+</h6> 
 
 
